@@ -1,5 +1,6 @@
 # CS1
-This repository contains projects that I have completed in CS 1. The course description is as follows:
+
+This is a repository containing the projects that I have completed in CS 1. The course description is as follows:
 
 "A course on computer programming emphasizing the program design process and pragmatic programming skills. It will use the
 Python programming language and will not assume previous programming experience. Material covered will include data types, 
