@@ -9,8 +9,8 @@ variables, assignment, control structures, functions, scoping, compound data, st
 Program development and maintenance skills including debugging, testing, and documentation will also be taught. Assignments
 will include problems drawn from fields such as graphics, numerics, networking, and games."
 
->
-Contents of the labs:  
+> 
+> Contents of the labs:  
     Lab 1: Intro to Python.  
     Lab 2: a) Basic Functions,   
            b) Mastermind.  
