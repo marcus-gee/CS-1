@@ -24,3 +24,5 @@ Contents:
     Lab 7: Sudoku Solver.   
     Midterm: More Functions & 2048.   
     Final: Solitaire.   
+
+Course completed: Fall 2017-18
